@@ -1,2 +1,0 @@
-# WarChess
-Created with CodeSandbox
